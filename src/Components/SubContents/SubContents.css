@@ -1,0 +1,6 @@
+.subcontent {
+    background-color: #ffd966;
+    flex-basis: 50px;
+    flex-grow: 1;
+    margin: 1em;
+}

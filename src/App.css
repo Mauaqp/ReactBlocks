@@ -1,7 +1,17 @@
 .App {
   text-align: center;
+  background-color: black;
 }
 
+.app {
+  box-sizing: border-box;
+  background-color: #dddddd;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1em;
+  justify-content: space-between;
+
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
